@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filip", "Filip\Filip.csproj", "{863F596F-8C04-4DC9-A0B2-230D17059C56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarifa", "..\Tarifa\Tarifa.csproj", "{2D19602A-0EAE-49CC-B2EC-7FFAEB6D177E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863F596F-8C04-4DC9-A0B2-230D17059C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863F596F-8C04-4DC9-A0B2-230D17059C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863F596F-8C04-4DC9-A0B2-230D17059C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863F596F-8C04-4DC9-A0B2-230D17059C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D19602A-0EAE-49CC-B2EC-7FFAEB6D177E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D19602A-0EAE-49CC-B2EC-7FFAEB6D177E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D19602A-0EAE-49CC-B2EC-7FFAEB6D177E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D19602A-0EAE-49CC-B2EC-7FFAEB6D177E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88ED4203-2A56-4007-B200-9B4CAA831422}
+	EndGlobalSection
+EndGlobal
