@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filip", "Filip\Filip.csproj", "{863F596F-8C04-4DC9-A0B2-230D17059C56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarifa", "Tarifa\Tarifa.csproj", "{6198AE5D-0FA0-4FD2-8BB8-0E2B908BC954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarifa", "Tarifa\Tarifa.csproj", "{6198AE5D-0FA0-4FD2-8BB8-0E2B908BC954}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coast", "Coast\Coast.csproj", "{C77BBA77-1561-4DF6-8130-AF9FF2690CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedLimit", "SpeedLimit\SpeedLimit.csproj", "{864DEFB3-8CF6-4F2A-B840-B2CD487D54CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{6198AE5D-0FA0-4FD2-8BB8-0E2B908BC954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6198AE5D-0FA0-4FD2-8BB8-0E2B908BC954}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6198AE5D-0FA0-4FD2-8BB8-0E2B908BC954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77BBA77-1561-4DF6-8130-AF9FF2690CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77BBA77-1561-4DF6-8130-AF9FF2690CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77BBA77-1561-4DF6-8130-AF9FF2690CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77BBA77-1561-4DF6-8130-AF9FF2690CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864DEFB3-8CF6-4F2A-B840-B2CD487D54CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864DEFB3-8CF6-4F2A-B840-B2CD487D54CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864DEFB3-8CF6-4F2A-B840-B2CD487D54CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864DEFB3-8CF6-4F2A-B840-B2CD487D54CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
